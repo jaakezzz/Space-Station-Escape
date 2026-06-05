@@ -1,0 +1,10 @@
+# Unreal Engine Generated Folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore local editor settings and logs
+*.log
+.vs/
+*.code-workspace
